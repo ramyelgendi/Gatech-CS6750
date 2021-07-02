@@ -1,0 +1,41 @@
+Section Scores: 
+
+Video: 88/100; 
+- 2.1: 8/10; 
+- 2.2: 9/10; 
+- 2.3: 4/5; 
+- 2.4: 4/5; 
+- 2.5: 10/10; 
+- 2.6: 10/10; 
+- 3.1: 18/20; 
+- 3.2: 7/10; 
+- 3.3: 10/10; 
+- 3.4: 8/10; 
+
+
+Readings: 43/50; 
+- Week 1 Readings: 9/10; 
+- Week 2 Readings: 4/5; 
+- Week 4 Readings: 5/5; 
+- Week 6 Readings: 9/10; 
+- Week 3 Readings: 8/10; 
+- Week 5 Readings: 8/10; 
+
+Notes:
+- Power dynamics in brainstorming refers to the negative effect that different layers of seniority can have in brainstorming. Low-ranked employees may be unlikely to pose ideas that differ strongly from senior employees.; 
+- Feedforward helps users anticipate the result of actions before they perform those actions.; 
+- A feedback cycle the repeated pattern of user and interface responding to one another.; 
+- The role of IRB is to ensure that the benefits of a study outweigh the risks | if there are no possible benefits, whether because the data is unused or the experimental design is too shoddy to give useful results, then it is impossible for the benefits to outweigh the risks.; 
+- Although there are many criteria that can be used to measure interfaces | such as effectiveness, efficiency, and safety | different criteria are appropriate for different interfaces.; 
+- The goal of brainstorming is generally to generate a lot of ideas to be whittled down later. Toward that end, it is helpful to spread brainstorming over multiple sessions and to have objective rules for when brainstorming is over.; 
+- A mode-error slip is one in which the user performs the wrong action based on some higher-level interaction mode, such as attempting to accelerate while a car is in the 'park' mode.; 
+- Human-centered design is an approach to performing design, but it is possible to participate in design without taking a human-centered approach.; 
+- Experience with any interface can make it invisible to the user allowing them to cross the gulfs of execution and evaluation with ease, even if initially they had to devote a lot of thought to the interface.; 
+- As a user becomes more experienced with a subject, they can hold more information about it in working memory and load information about it more quickly.; 
+- One of the most significant findings of human subjects research is that humans are very poor at understanding their own actions and intentions. Instead, humans are very good at constructing retrospective explanations for their actions, making post-hoc surveys questionably effective.; 
+- Adopting the participant model means examining the task in its natural, authentic context.; 
+- The term 'predictor' means understanding what the user predicts the outcome of their action will be.; 
+- MacKenzie argues that empirical research must be falsifiable.; 
+- Laws that govern human-subjects research apply to universities receiving federal funding, not to private companies.; 
+- According to Faste et al., group brainstorming should involve building on one another's ideas, but never rejecting one another's ideas.; 
+- The strength of quantitative data is its ability to capture conclusive, defensible, less biased conclusions and comparisons.
