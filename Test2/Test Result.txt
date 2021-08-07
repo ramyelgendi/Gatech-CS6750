@@ -1,0 +1,31 @@
+Section Scores: 
+
+Video: 98/100;
+
+2.7: 14/15;
+2.8: 9/10;
+2.9: 10/10;
+2.10: 5/5;
+3.1: 5/5;
+3.4: 5/5;
+3.5: 10/10;
+3.6: 20/20;
+3.7: 10/10;
+3.8: 10/10;
+
+Readings: 44/50;
+Week 7 Readings: 9/11;
+Week 9 Readings: 10/11;
+Week 10 Readings: 5/6;
+Week 11 Readings: 10/12;
+Best of CHI Readings: 5/5;
+Best of GT Readings: 5/5;
+
+According to Cowan, changes in the American workforce did not lead to a significant increase in divoce rates.;
+Fidelity, as defined by Houde and Hill, is how close the prototype is expected to be to the final design.;
+GOMS models typically are context-agnostic and flat rather than hierarchical.;
+Houde and Hill propose three things for prototype evaluation to explore (the role, the implementation, and the look & feel), which can be explored in any order.;
+Longitudinal studies aim to measure changes that are too gradual to find in a single experimental session.;
+Distributed cognition argues that systems comprised of multiple users and interfaces can perform tasks that cannot be ascribed to any specific part of the interface.;
+Cognitive walkthroughs ask experts to adopt the mindset of users in lieu of bringing in actual users to predict likely user errors.;
+According to Polson, Lewis, Rieman, and Wharton in Cognitive Walkthroughs, "Typical design guidelines ... provide very general recommendations that are not specific enough to guide the development process", "guidelines cannot handle complex interactions and trade-offs among design features", and "Others are distillations of experience with interface technology that is now out-of-date."
